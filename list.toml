@@ -167,6 +167,7 @@
   "CapitalFM London"                 = "http://media-ice.musicradio.com/CapitalMP3.m3u"
   "CapitalFM Manchester"             = "http://media-ice.musicradio.com/CapitalManchesterMP3"
   "CapitalFM Moscow"                 = "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
+  "CapitalFM Nottinghamshire"        = "http://media-sov.musicradio.com/CapitalNottinghamshireMP3"
   "CapitalFM South & West Yorkshire" = "http://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3.m3u"
   "CapitalFM South Wales"            = "http://media-ice.musicradio.com/CapitalSouthWalesMP3"
   "CapitalFM XTRA London"            = "http://media-ice.musicradio.com/CapitalXTRALondonMP3"
