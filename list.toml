@@ -525,6 +525,7 @@
   "NOVA Direkte"                     = "http://ads-e-bauerse-fm-08-cr.sharp-stream.com/nova_dk_mp3"
   "Nova FM"                          = "http://ads-e-bauerse-fm-05-gos2.sharp-stream.com/nova_dk_mp3"
   "Nova"                             = "http://149.13.0.81/nova128.m3u"
+  "NPO Radio 1"                      = "http://icecast.omroep.nl/radio1-bb-mp3"
   "NPO Radio 2"                      = "http://icecast.omroep.nl/radio2-bb-mp3"
   "NPR News"                         = "http://nprdmp-live01-mp3.akacast.akamaistream.net/7/998/364916/v1/npr.akacast.akamaistream.net/nprdmp_live01_mp3"
   "NPR Station"                      = "https://audio.kuer.org/high"
