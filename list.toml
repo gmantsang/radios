@@ -10,6 +10,7 @@
   "101.5 UMFM"                       = "http://live.umfm.com:8000/"
   "101kv"                            = "http://server.101kv.nl:8000/"
   "104.6 RTL Neue Hits"              = "http://www.surfmusik.de/m3u/104-6-rtl-neue-hits,17963.m3u"
+  "106.9 Capital FM"                 = "http://17563.live.streamtheworld.com/CIBXFMAAC_SC"
   "181.FM Beat"                      = "http://listen.181fm.com/181-beat_128k.mp3?noPreRoll=true"
   "181FM Old School HipHop/RnB"      = "http://relay1.181.fm:8068/"
   "181FM"                            = "http://listen.181fm.com/181-vibe_128k.mp3"
