@@ -614,6 +614,7 @@
   "R.SH"                             = "http://regiocast.hoerradar.de/rsh-live-mp3-hq"
   "R101"                             = "http://se-to1-6.se.wradio.msf.ticdn.it/r101_mp3"
   "RAC1 (Catalunya)"                 = "http://rac1.radiocat.net/;*.nsv"
+  "RAC105"                           = "http://rac105.radiocat.net/;*.nsv"
   "Rad.io"                           = "https://relay0.r-a-d.io/main.mp3"
   "Radio 10"                         = "http://20073.live.streamtheworld.com/RADIO10.mp3"
   "Radio 100"                        = "http://onair.100fmlive.dk/100fm_live.mp3"
