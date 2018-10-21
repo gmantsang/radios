@@ -1096,6 +1096,7 @@
   "WDR 2"                            = "http://dg-wdr-http-fra-dtag-cdn.cast.addradio.de/wdr/wdr2/rheinland/mp3/128/stream.mp3?ar-di"
   "WDR 3"                            = "https://dg-wdr-https-dus-dtag-cdn.sslcast.addradio.de/wdr/wdr3/live/mp3/128/stream.mp3?ar-di"
   "WDR 4"                            = "http://dg-wdr-http-dus-dtag-cdn.cast.addradio.de/wdr/wdr4/live/mp3/128/stream.mp3?ar-distributor=f0b9"
+  "We Are GA"                        = "http://sc.gcasd.org:8000/1"
   "West FM"                          = "http://icy-e-bz-05-cr.sharp-stream.com/westfm.mp3"
   "Westside Radio"                   = "http://radio.canstream.co.uk:8002/live.mp3"
   "Westsound"                        = "http://icy-e-bz-08-boh.sharp-stream.com/westsound.mp3"
