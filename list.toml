@@ -255,6 +255,7 @@
   "EuroTruckFM"                      = "http://radio.eurotruckradio.co.uk:8000/;"
   "EuroTruckRadio"                   = "http://radio.eurotruckradio.co.uk:8000/stream"
   "Evropa2"                          = "http://pool.cdn.lagardere.cz/fm-evropa2-128"
+  "Exclusively ABBA"                 = "http://media01.goonhilly.mystreaming.net:8081/exclusively/abba128/icecast.audio"
   "Express FM"                       = "http://stream.expressfm.com/expressfm.mp3"
   "Extra FM"                         = "http://94.130.66.170:8110/;"
   "Fajn Radio"                       = "http://ice.abradio.cz/fajn128.mp3"
